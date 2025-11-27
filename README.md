@@ -25,7 +25,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **Procedure**
 
-/* write all the steps invloved */
+
 
 **PROGRAM**
 
@@ -33,10 +33,24 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 Developed by: RegisterNumber:
 
-*/
+25015346
 
 **RTL LOGIC FOR SISO Shift Register**
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 **RESULTS**
+RTL VIEWER:
+
+
+
+
+<img width="1919" height="1079" alt="RTL VIEWER EX10" src="https://github.com/user-attachments/assets/7c8c4d9e-e6bb-4f91-9937-8873d27cefaf" />
+
+
+WAVEFORM:
+<img width="1919" height="1079" alt="WAVEFORM EX10" src="https://github.com/user-attachments/assets/cd626e6a-4702-45d4-92de-5c4d00dda98c" />
+
+
+
+
